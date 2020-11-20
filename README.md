@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, This is [Yiming Wu](https://sites.google.com/site/yimingwu0/home) 
+![Yiming Wu's Github stats](https://github-readme-stats.vercel.app/api?username=weleen&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 <!--
 **weleen/weleen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
